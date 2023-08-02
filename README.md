@@ -11,4 +11,7 @@
 
 <p align="center">Counting of visitors to this page in this section started from August 02, 2023</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/atageldi194229/count.svg"></p>
+<p align="center"><img src="https://count.getloli.com/get/@atageldi194229-counter" alt="atageldi194229-counter" /></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/atageldi194229/count.svg"></p> -->
+
+![](https://github.com/BEPb/BEPb/raw/main/assets/Bottom_down.svg)
